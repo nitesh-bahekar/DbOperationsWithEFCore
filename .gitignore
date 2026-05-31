@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+.vscode/
+
+# Build Folders
+bin/
+obj/
+
+# User Files
+*.user
+*.suo
+*.userprefs
+
+# ASP.NET Core
+appsettings.Development.json
+
+# Logs
+*.log
+
+# NuGet
+packages/
+*.nupkg
+
+# Publish
+publish/
+
+# Azure
+.publishsettings
